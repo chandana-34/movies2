@@ -1,7 +1,6 @@
 import React, { useState,useEffect} from 'react';
 import './App.css';
 import MovieAPI from "./components/apidata";
-
 import MovieCards from "./components/movies";
 // import { Route,BrowserRouter,Link,Switch,Redirect} from 'react-router-dom';
 const App = () => {
